@@ -23,12 +23,13 @@ email: dr.akhinath@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nathakhi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #repository: brennanbrown/purelog
 #twitter: bbhowmic
 linkedIn: akhi-nath
-github: https://github.com/nathakhi
-
+github: nathakhi
+resumelink: https://drive.google.com/file/d/1J1J7R7DF3bQBFEUy7F8K4OplohAdXBZa/view?usp=sharing
+tableau: https://public.tableau.com/app/profile/akhi.nath 
 header_image: assets/akhinath.png
 
 google_analytics:

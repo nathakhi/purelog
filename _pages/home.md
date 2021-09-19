@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Welcome
-permalink: /home
+permalink: /
 ---
 <div style="display:table-cell; vertical-align: middle;
  padding:30px;
 
 
 color:black; font-size: 24px; width: 666px; height:266px;x;  border-radius:100px">
-
+<!--h2 style="text-align:center">Welcome</h2-->
 <p><q>Hello...  
 Thank you for visiting my site. I'm Akhi. It is my pleasure to invite you to explore my activities and interests. My knowledge and expertise in several domains including healthcare, data science, business management, and research have enabled me to accomplish some exciting projects. I hope, you will enjoy it!!</q> </p>
 
